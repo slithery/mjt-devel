@@ -6,5 +6,7 @@ description: >
 baseurl: ""
 url: "http://mjtconstructionltd.com"
 
+exclude: [README.md]
+
 # Build settings
 markdown: kramdown
