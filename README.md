@@ -1,7 +1,5 @@
 mjtconstruction.ltd
 ===================
 
-Jekyll source
--------------
-
+Jekyll source for http://mjtconstructionltd.com
 
