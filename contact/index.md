@@ -3,7 +3,7 @@ layout: page
 title: "Contact"
 ---
 
-###Contact Details###
+### Contact Details
 
 {{ site.title }} are based in Norfolk and are happy
 to quote for work anywhere in the local area.
